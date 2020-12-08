@@ -1,0 +1,42 @@
+.dog-profile-container {
+    display: inline-flex;
+    flex-direction: column;
+    width: 100%;
+
+    .back-container {
+        width: 100%;
+        margin: 10px 10px 0 10px;
+        display: inline-flex;
+        justify-content: flex-start;
+    }
+
+    .dog-profile {
+        display: inline-flex;
+        flex-direction: row;
+        justify-content: center;
+        padding: 20px 40px 40px 40px;
+        margin-bottom: 10px;
+        border-bottom: black dashed 1px;
+
+        .profile-pic {
+            height: 400px;
+            width: 480px;
+        }
+
+        .dog-info {
+            display: inline-flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+            margin-left: 40px;
+        }
+
+        .parent-info {
+            display: inline-flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
+        }
+    }
+}

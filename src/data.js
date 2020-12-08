@@ -1,0 +1,103 @@
+const dobermanData = [
+    {
+      Name: "Graaf Alvarez v.d. Doberburght",
+      Link: "pedigree.php?pedid=55956",
+      Color: "Black",
+      Pedigree: "NHSB 1170813",
+      DOB: "8/26/81",
+      Picture: "http://adonikons.ucoz.ru/_ph/10/2/137720862.jpg",
+      FatherName: "Graaf Questor v. Ne�rlands Stam (NHSB 634954)",
+      FatherPicture: "http://www.dobermannpedigrees.nl/uploads/extgallery/public-photo/medium/Graaf-Questor-van-Ne-rlands-Stam_2_76b1a.jpg",
+      MotherName: "Vico v.d. Br�noburg",
+      MotherPicture: "No Picture",
+      GrandfatherName: "Gravin Faby v. Ne�rlands Stam (NHSB 405104)",
+      GrandfatherPicture: "http://www.dobermannpedigrees.nl/uploads/extgallery/public-photo/medium/Gravin-Faby-van-Ne-rlands-Stam1967_2_037de.jpg",
+      GrandmotherName: "Tasja v.d. Bloemenhoek",
+      GrandmotherPicture: "No Picture"
+    },
+    {
+        Name: "Graaf Alvarez v.d. Doberburght",
+        Link: "pedigree.php?pedid=55956",
+        Color: "Black",
+        Pedigree: "NHSB 1170813",
+        DOB: "8/26/81",
+        Picture: "http://adonikons.ucoz.ru/_ph/10/2/137720862.jpg",
+        FatherName: "Graaf Questor v. Ne�rlands Stam (NHSB 634954)",
+        FatherPicture: "http://www.dobermannpedigrees.nl/uploads/extgallery/public-photo/medium/Graaf-Questor-van-Ne-rlands-Stam_2_76b1a.jpg",
+        MotherName: "Vico v.d. Br�noburg",
+        MotherPicture: "No Picture",
+        GrandfatherName: "Gravin Faby v. Ne�rlands Stam (NHSB 405104)",
+        GrandfatherPicture: "http://www.dobermannpedigrees.nl/uploads/extgallery/public-photo/medium/Gravin-Faby-van-Ne-rlands-Stam1967_2_037de.jpg",
+        GrandmotherName: "Tasja v.d. Bloemenhoek",
+        GrandmotherPicture: "No Picture"
+      },
+      {
+        Name: "Graaf Alvarez v.d. Doberburght",
+        Link: "pedigree.php?pedid=55956",
+        Color: "Black",
+        Pedigree: "NHSB 1170813",
+        DOB: "8/26/81",
+        Picture: "http://adonikons.ucoz.ru/_ph/10/2/137720862.jpg",
+        FatherName: "Graaf Questor v. Ne�rlands Stam (NHSB 634954)",
+        FatherPicture: "http://www.dobermannpedigrees.nl/uploads/extgallery/public-photo/medium/Graaf-Questor-van-Ne-rlands-Stam_2_76b1a.jpg",
+        MotherName: "Vico v.d. Br�noburg",
+        MotherPicture: "No Picture",
+        GrandfatherName: "Gravin Faby v. Ne�rlands Stam (NHSB 405104)",
+        GrandfatherPicture: "http://www.dobermannpedigrees.nl/uploads/extgallery/public-photo/medium/Gravin-Faby-van-Ne-rlands-Stam1967_2_037de.jpg",
+        GrandmotherName: "Tasja v.d. Bloemenhoek",
+        GrandmotherPicture: "No Picture"
+      },
+      {
+        Name: "Graaf Alvarez v.d. Doberburght",
+        Link: "pedigree.php?pedid=55956",
+        Color: "Black",
+        Pedigree: "NHSB 1170813",
+        DOB: "8/26/81",
+        Picture: "http://adonikons.ucoz.ru/_ph/10/2/137720862.jpg",
+        FatherName: "Graaf Questor v. Ne�rlands Stam (NHSB 634954)",
+        FatherPicture: "http://www.dobermannpedigrees.nl/uploads/extgallery/public-photo/medium/Graaf-Questor-van-Ne-rlands-Stam_2_76b1a.jpg",
+        MotherName: "Vico v.d. Br�noburg",
+        MotherPicture: "No Picture",
+        GrandfatherName: "Gravin Faby v. Ne�rlands Stam (NHSB 405104)",
+        GrandfatherPicture: "http://www.dobermannpedigrees.nl/uploads/extgallery/public-photo/medium/Gravin-Faby-van-Ne-rlands-Stam1967_2_037de.jpg",
+        GrandmotherName: "Tasja v.d. Bloemenhoek",
+        GrandmotherPicture: "No Picture"
+      },
+      {
+        Name: "Graaf Alvarez v.d. Doberburght",
+        Link: "pedigree.php?pedid=55956",
+        Color: "Black",
+        Pedigree: "NHSB 1170813",
+        DOB: "8/26/81",
+        Picture: "http://adonikons.ucoz.ru/_ph/10/2/137720862.jpg",
+        FatherName: "Graaf Questor v. Ne�rlands Stam (NHSB 634954)",
+        FatherPicture: "http://www.dobermannpedigrees.nl/uploads/extgallery/public-photo/medium/Graaf-Questor-van-Ne-rlands-Stam_2_76b1a.jpg",
+        MotherName: "Vico v.d. Br�noburg",
+        MotherPicture: "No Picture",
+        GrandfatherName: "Gravin Faby v. Ne�rlands Stam (NHSB 405104)",
+        GrandfatherPicture: "http://www.dobermannpedigrees.nl/uploads/extgallery/public-photo/medium/Gravin-Faby-van-Ne-rlands-Stam1967_2_037de.jpg",
+        GrandmotherName: "Tasja v.d. Bloemenhoek",
+        GrandmotherPicture: "No Picture"
+      },
+      {
+        Name: "Graaf Alvarez v.d. Doberburght",
+        Link: "pedigree.php?pedid=55956",
+        Color: "Black",
+        Pedigree: "NHSB 1170813",
+        DOB: "8/26/81",
+        Picture: "http://adonikons.ucoz.ru/_ph/10/2/137720862.jpg",
+        FatherName: "Graaf Questor v. Ne�rlands Stam (NHSB 634954)",
+        FatherPicture: "http://www.dobermannpedigrees.nl/uploads/extgallery/public-photo/medium/Graaf-Questor-van-Ne-rlands-Stam_2_76b1a.jpg",
+        MotherName: "Vico v.d. Br�noburg",
+        MotherPicture: "No Picture",
+        GrandfatherName: "Gravin Faby v. Ne�rlands Stam (NHSB 405104)",
+        GrandfatherPicture: "http://www.dobermannpedigrees.nl/uploads/extgallery/public-photo/medium/Gravin-Faby-van-Ne-rlands-Stam1967_2_037de.jpg",
+        GrandmotherName: "Tasja v.d. Bloemenhoek",
+        GrandmotherPicture: "No Picture"
+      },
+      
+
+
+];
+
+export default dobermanData;

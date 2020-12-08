@@ -1,0 +1,11 @@
+.parent-container {
+    display: inline-block;
+    flex-direction: column;
+    padding: 10px;
+    width: 23%;
+
+    .parent-pic {
+        width: 250px;
+        height: 200px;
+    }
+}
